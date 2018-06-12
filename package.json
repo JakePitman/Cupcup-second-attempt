@@ -1,0 +1,23 @@
+{
+  "name": "cupcup",
+  "version": "1.0.0",
+  "description": "Cup cup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakePitman/Cupcup-second-attempt.git"
+  },
+  "author": "Jake Jacob AJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JakePitman/Cupcup-second-attempt/issues"
+  },
+  "homepage": "https://github.com/JakePitman/Cupcup-second-attempt#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.1.5"
+  }
+}
